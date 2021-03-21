@@ -16,7 +16,18 @@ function App() {
       <Header/>
       <Calendar/>
       <Card/>
-      <div style={{position:'sticky', bottom:'24px', height:'150px', width:'100%', background:'red'}}>
+      <div 
+        style={{
+          position:'fixed', 
+          bottom:'24px', 
+          height:'50px', 
+          width:'100%', 
+          background:'red',
+          visibility:'visible',
+          width:'360px'
+
+        }}
+      >
           TESTESTES
       </div>
       
