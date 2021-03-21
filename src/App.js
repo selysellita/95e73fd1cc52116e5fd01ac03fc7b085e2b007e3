@@ -1,23 +1,27 @@
-import logo from './logo.svg';
+import React from 'react';
+import {
+  Switch,
+  Route,
+} from "react-router-dom";
+import Home from './pages/home'
 import './App.css';
+import Header from './components/Header';
+import Calendar from './components/Calendar';
+import Card from './components/Card';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <Header/>
+      <Calendar/>
+      <Card/>
+      <div style={{position:'sticky', bottom:'24px', height:'150px', width:'100%', background:'red'}}>
+          TESTESTES
+      </div>
+      
+      
+
     </div>
   );
 }

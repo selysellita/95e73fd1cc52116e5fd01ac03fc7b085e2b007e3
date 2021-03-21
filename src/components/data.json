@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nama": "Mie Ayam Bangka",
+        "image": "https://kln.imgix.net/production/P4WSDVEBVW-Screenshot_20210126-143835_Gojek.jpg?w=300",
+        "rating": 5,
+        "nama_restoran": "Pondok Bahar",
+        "harga": 59000,
+        "kategori": "lunch"
+    },
+    {
+        "id": 2,
+        "nama": "Nasi Lemak Penang",
+        "image": "https://kln.imgix.net/production/E0AE82C4-74CF-46BC-B372-9D8CBC6A6D10%20%281%29.png?w=300",
+        "rating": 4.8,
+        "nama_restoran": "Penang Rasa, Kelapa Gading",
+        "harga": 103000,
+        "kategori":"lunch"
+    },
+    {
+        "id": 3,
+        "nama": "Brownies Ketan Hitam",
+        "image": "https://kln.imgix.net/production/B3VPQU8M95-image_picker_808D2DB0-3751-47CA-AD62-D3ED771C53D0-468-000000407B72B467.jpg?w=700",
+        "rating": 3.7,
+        "nama_restoran":"About Tea Cafe",
+        "harga":80000,
+        "kategori":"dinner"
+    },
+    {
+        "id": 4,
+        "nama": "Frozen Risol Mayo",
+        "image": "https://kln.imgix.net/production/HEJ4UNQPT7-image_picker_89EA4F26-9052-4644-9828-BD006485B1CE-1877-0000193165F73432.jpg?w=700",
+        "rating": 4.9,
+        "nama_restoran":"Frozen by Gumi",
+        "harga": 65000,
+        "kategori":"dinner"
+    },
+    {
+        "id": 5,
+        "nama": "Woku Ayam Kampung",
+        "image": "https://kln.imgix.net/production/ENNLMCHH8O-image_picker_FB16FAF7-E0C7-4216-90A9-D82FED0DD644-5117-000004016B11A686.jpg?w=700",
+        "rating": 2.4,
+        "nama_restoran":"Daun Pisang",
+        "harga":214000,
+        "kategori":"lunch"
+    },
+    {
+        "id": 6,
+        "nama": "Salty Calamari",
+        "image": "https://kln.imgix.net/production/OXY3S9AJGX-Salty%20Calamari.jpg?w=700",
+        "rating": 4.7,
+        "nama_restoran":"Racik Sendiri",
+        "harga":32500,
+        "kategori":"dinner"
+    },
+    {
+        "id": 7,
+        "nama": "Ceker Mercon Oseng Kering",
+        "image": "https://kln.imgix.net/production/7YZI220G98-scaled_image_picker4851230188448077181.jpg?w=300",
+        "rating": 5,
+        "nama_restoran":"Dapoer Kecil",
+        "harga":13000,
+        "kategori":"dinner"
+    }
+]
